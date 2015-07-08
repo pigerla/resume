@@ -60,7 +60,7 @@
 
 ## 技能清单
 
-以下均为我熟练使用的技能
+以下均为熟练使用的技能
 
  - Web开发：NodeJS
  - 前端框架：Bootstrap / AngularJS / Foundation / JQuery
