@@ -27,7 +27,7 @@
  - 主要框架：Sailsjs + Angularjs
  - 线上链接：http://server.kaolalicai.cn/
  - 项目概述：主要负责整个项目的前后端开发，从零开始搭建项目，实现了**多用户身份登录**，其中核心算法记录在博文[**在sail.js上进行身份权限控制**](http://pigerla.com/learning-sailsjs/2015-04-07/making-user-polices-based-on-sailsjs/)中；实现了全局的**消息通知栏**等。自己还写了[FixedBar](https://github.com/pigerla/FixedBar)和[Loading](https://github.com/pigerla/Loading)等开源插件和从**多个输入框**整合成**一个输入框**以提高用户体验。
- - 体现能力：学习能力强而快，对公司而言，培养成本是很低的；创造（工具）能力良好；对用户体验是有一定理解并重视的。
+ - 体现能力：学习能力强而快；创造（工具）能力良好；对用户体验是有一定理解并重视的。
  - 项目效果：现稳定地供整个考拉团队内部使用中。
 
 #### 考拉理财官网
@@ -66,7 +66,7 @@
  - 前端框架：Bootstrap / AngularJS / Foundation / JQuery
  - 后端框架：Sailsjs
  - 前端工具：Bower / Less / Grunt 
- - 数据库相关：MongoDB / sail-mongo
+ - 数据库相关：MongoDB / Sails-mongo
  - 版本管理和部署工具： Git / PM2
  - 单元测试：Mocha
  - 云和开放平台：SAE / 微信公众帐号开发
